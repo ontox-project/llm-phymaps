@@ -4,7 +4,7 @@ Here are examples of possible questions we could solve during the workshop in Li
 
 - Problem 1: Link (specific) liver physiological maps events to properties from chemproptransformer.
 
-- Problem 2: Something with BioCypher/BioChatter
+- Problem 2: Something with BioCypher/BioChatter: representing the PMs as knowledge graphs then inteacting with them with a chatbot
 
 - Problem 3: ...
 
